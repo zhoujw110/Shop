@@ -1,0 +1,11 @@
+com\zhou\mapper\TbItemParamItemMapper.class
+com\zhou\mapper\TbUserMapper.class
+com\zhou\mapper\TbContentCategoryMapper.class
+com\zhou\mapper\TbItemParamMapper.class
+com\zhou\mapper\TbContentMapper.class
+com\zhou\mapper\TbItemCatMapper.class
+com\zhou\mapper\TbItemMapper.class
+com\zhou\mapper\TbOrderMapper.class
+com\zhou\mapper\TbOrderShippingMapper.class
+com\zhou\mapper\TbOrderItemMapper.class
+com\zhou\mapper\TbItemDescMapper.class
